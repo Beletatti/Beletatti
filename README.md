@@ -2,7 +2,7 @@
 
 <h2 align="left">About me </h2>
 <p>  Analysis and Systems Development at Impacta Tech.</p>
-<p>  Interested in: Python, MySQL, PHP, CSS and HTML. </p>
+<p>  Interested in: Python, SQL Server, Power BI, Excel and AWS. </p>
 <p>  In the way to be a Back-End developer.</p>
 <br>
 
@@ -14,7 +14,7 @@
 
 <h2 align="left">Learning</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,mysql,php,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,mysql,excel,aws,powerbi)](https://skills.thijs.gg)
 
 <h2 align="left">Interested in</h2>
 
