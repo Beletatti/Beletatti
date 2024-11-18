@@ -2,7 +2,7 @@
 
 <div style="display: inline_block" align="center">
 <p> I live on São Paulo, Brasil and study Analysis and Systems Development at <b>Impacta Tech</b></p>
-<a href="https://www.linkedin.com/in/kaique-beletatti-a29b55263//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/beletatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:kaiquebeletatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <hr>
