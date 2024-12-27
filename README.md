@@ -1,30 +1,32 @@
-<h1 align="center"> Hello, I'm Kaique </h1>
+<h1 align="left">Hello there 👋</h1>
+ <div align="left">
+  <a href = "mailto:kaiquebeletatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielazocatelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
-<div style="display: inline_block" align="center">
-<p> I live on São Paulo, Brasil and study Analysis and Systems Development at <b>Impacta Tech</b></p>
-<a href="https://www.linkedin.com/in/beletatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:kaiquebeletatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<hr>
-
-<h2 align="left" style="none">Interested in</h2>
-<div style="display: inline_block">
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/linux-FF9E2A?style=for-the-badge&logo=linux&logoColor=white">
-    <img align="center" alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</div>
+<h2 align="left">About me </h2>
+<p>📖  Analysis and Systems Development at Impacta Tech.</p>
+<p>💻  Intern at PwC. </p>
 <br>
-<div style="display: inline_block">
-    <img align="center" alt="Backend" src="https://img.shields.io/badge/Backend-0085CA?style=for-the-badge">
-    <img align="center" alt="DataAnalytics" src="https://img.shields.io/badge/Data Analytics-004088?style=for-the-badge">
-    <img align="center" alt="BigData" src="https://img.shields.io/badge/Big Data-002157?style=for-the-badge">
+
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beletatti&theme=dark&show_icons=true"/>
+  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beletatti&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h2 align="left"> Stats </h2>
+<h2 align="left">Main Technologies</h2>
+
+<h3>Programming Languages</h3>
 <div>
-  <a href="https://github.com/Beletatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beletatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> <br>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beletatti&layout=compact&langs_count=7&theme=github_dark"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+
+<h3>Cloud Platform Certified</h3>
+<div>
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
