@@ -1,6 +1,6 @@
 <h1 align="left">Hello There 👋</h1>
 
-<p> Desenvolvedor backend com foco em Java, Spring Boot para a criação de APIs RESTful e SQL para gerenciamento de dados. Minha paixão por tecnologia é complementada por certificações em nuvem da AWS e Azure, validando minha capacidade de atuar em ambientes de cloud computing.
+<p> Desenvolvedor backend com experiência na criação de APIs RESTful com Java e Spring Boot e gerenciamento de dados SQL, com habilidades em cloud computing e certificado em AWS e Azure.
 
 </p>
 <p></p>
