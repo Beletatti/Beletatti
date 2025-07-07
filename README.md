@@ -5,7 +5,7 @@
 </p>
 <p></p>
 <p>📚 Estudante de Sistemas de Informação na Impacta Tecnologia.</p>
-<p>💼 Desenvolvedor de Software na PwC Brasil. </p>
+<p>💼 Estagiário em Desenvolvimento de Software na PwC Brasil. </p>
 
 <h3>Certificações</h3>
 
